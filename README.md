@@ -4,7 +4,8 @@ A script to take advantage of a unique design in Google Cloud's Compute API capa
 
 ## Overview
 **This is based on research conducted by the Andrew Johnson at Mitiga - check out the original [blog post here](https://www.mitiga.io/blog/misconfiguration-hidden-dangers-cloud-control-plane)**
-To get more information on this capability, the inner workings behind it, and other information, go check out the extensive blog post I wrote about developing this "PoC" [here](https://mgior.com/google-cloud-misconfiguration-poc/). At some point I will translate a lot of the high-level information from the blog post and include it in this README.
+
+To get more information on this capability, the inner workings behind it, and other information, go check out the extensive [blog post I wrote](https://mgior.com/google-cloud-misconfiguration-poc/) about developing this "PoC". At some point I will translate a lot of the high-level information from the blog post and include it in this README.
 
 ## Usage
 To get started, first clone the repository and install the required Python libraries
